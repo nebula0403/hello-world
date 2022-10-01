@@ -1,0 +1,12 @@
+* {
+    margin:0;
+    padding:0;
+}
+/*去掉黑点*/
+li {
+    list-style: none;
+}
+/*去掉下划线*/
+a {
+    text-decoration: none;
+}
